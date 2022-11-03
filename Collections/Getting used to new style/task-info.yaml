@@ -3,18 +3,18 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 137
-    length: 6
+  - offset: 0
+    length: 100
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 137
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 5xZ76gPm7TTXonFYA25gbQ==
-  - offset: 213
-    length: 6
+  - offset: 0
+    length: 100
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: A4BWdJx9J/z5f/pUpXwkgg==
-  - offset: 291
-    length: 6
+  - offset: 0
+    length: 100
     placeholder_text: TODO()
     initial_state:
       length: 6
