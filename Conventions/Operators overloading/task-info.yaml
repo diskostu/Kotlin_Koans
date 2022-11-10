@@ -5,8 +5,8 @@ files:
   placeholders:
   - offset: 346
     length: 559
-    placeholder_text: 'operator fun MyDate.plus(timeInterval: TimeInterval): MyDate
-      = TODO()'
+    placeholder_text: "operator fun MyDate.plus(timeInterval: TimeInterval): MyDate\
+      \ = TODO()"
     initial_state:
       length: 69
       offset: 192
@@ -39,5 +39,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVj
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 20 Oct 2022 07:05:03 UTC
+  time: "Thu, 20 Oct 2022 07:05:03 UTC"
 record: -1

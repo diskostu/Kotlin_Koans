@@ -1,16 +1,25 @@
-fun main() {
-    doSomethingWithCollectionOldStyle(listOf("one", "two", "three", "four", "five"))
+fun doSomethingWithCollection(collection: Collection<String>): Collection<String>? {
+
+    val groupsByLength = collection.groupBy { it.length }
+
+    val maximumSizeOfGroup = groupsByLength.values.maxOfOrNull { it.size }
+
+    return groupsByLength.values.firstOrNull { it.isNotEmpty() }
 }
 
 
-//fun doSomethingWithCollection(collection: Collection<String>): Collection<String>? {
-//
-//    val groupsByLength = collection.groupBy { s -> TODO() }
-//
-//    val maximumSizeOfGroup = groupsByLength.values.map { group -> TODO() }.maxOrNull()
-//
-//    return groupsByLength.values.firstOrNull { group -> TODO() }
-//}
+fun main() {
+    val collection = listOf("one", "two", "three", "four", "five")
+
+    val groupsByLength = collection.groupBy { it.length }
+    println("groupsByLength = $groupsByLength")
+
+    val maximumSizeOfGroup = groupsByLength.values.maxOfOrNull { it.size }
+    println("maximumSizeOfGroup = $maximumSizeOfGroup")
+
+    val firstOrNull = groupsByLength.values.firstOrNull { it.isNotEmpty() }
+    println("firstOrNull = $firstOrNull")
+}
 
 fun doSomethingWithCollectionOldStyle(
     collection: Collection<String>,

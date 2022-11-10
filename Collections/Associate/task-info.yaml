@@ -24,7 +24,7 @@ files:
     status: Solved
     encrypted_possible_answer: bHbWHlbXnNTk7UiRFBJcByGklhlj8USJqlS5maPcq3q3gRffHRSF/cCpVYyUTH98
   - offset: 397
-    length: 43
+    length: 992
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -51,5 +51,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVj
 status: Solved
 feedback:
   message: Congratulations!
-  time: Fri, 21 Oct 2022 14:45:43 UTC
+  time: "Fri, 21 Oct 2022 14:45:43 UTC"
 record: -1

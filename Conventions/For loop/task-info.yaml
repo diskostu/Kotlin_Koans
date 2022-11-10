@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 0
     length: 755
-    placeholder_text: 'class DateRange(val start: MyDate, val end: MyDate)'
+    placeholder_text: "class DateRange(val start: MyDate, val end: MyDate)"
     initial_state:
       length: 51
       offset: 0
@@ -31,5 +31,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVj
 status: Solved
 feedback:
   message: Congratulations!
-  time: Thu, 20 Oct 2022 06:52:49 UTC
+  time: "Thu, 20 Oct 2022 06:52:49 UTC"
 record: -1
