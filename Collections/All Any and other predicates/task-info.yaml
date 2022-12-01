@@ -3,28 +3,28 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 115
-    length: 33
+  - offset: 119
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 119
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 0Ggmc4jnkvYkaKUjUbL+NQ0pDyevJgYfo7MOmc8dtitb7EZHREtEz0ar8w+yVT5q
-  - offset: 303
-    length: 0
+  - offset: 250
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 250
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 3RgQXn0FtWwHCT2LnkEk+JGpwCmnEJz6FZAxH+eSWueolNjnVydlVJ1ucdTz3MsQ
-  - offset: 407
-    length: 35
+  - offset: 365
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -33,8 +33,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: QPbpIA5MDpfecvmT/ZmnCAGqsOtarvhWHFEfKNtQr/oR20t0Mxu430wa8Om1RcVB
-  - offset: 572
-    length: 34
+  - offset: 505
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -59,7 +59,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+All+Any+and+Other+Predicates
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 21 Oct 2022 08:27:18 UTC"
 record: -1

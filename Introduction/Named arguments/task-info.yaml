@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 76
-    length: 27
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 76
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: iGQKKJZoH+UNaYiGQ8JQ56oKMv6QwvDMwOvuVI5Xn7M=
   encrypted_text: KZiCpkBiEpVQfSaEHjuhuIc2rjJ6rso0u5LY8p2BgxriB7KVu8rNjsKwVnLA3/mb0Adqb6xaz6aL8CDKc3hPvm4hFXl3BBe07bs7hLAgtX1XYPcuOWEgSoKRnzttUE0e
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Named+Arguments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Tue, 18 Oct 2022 16:40:03 UTC"
 record: -1

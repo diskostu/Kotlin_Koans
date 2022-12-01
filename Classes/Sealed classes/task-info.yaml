@@ -3,17 +3,17 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 92
+  - offset: 72
     length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 72
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 0jTQ2/y+bX7DpTLUxdQUmg==
-  - offset: 121
+  - offset: 101
     length: 6
     placeholder_text: TODO()
     initial_state:
@@ -23,28 +23,28 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: OQRt2jAjSqs/opsojU2ziv75WtpqXozBKa0U4k1km4XH+aCH/f05CZtd7sn0/v9R
-  - offset: 135
-    length: 21
+  - offset: 119
+    length: 14
     placeholder_text: interface Expr
     initial_state:
       length: 14
       offset: 119
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: sSDd6IW/jyIN5mHgg8ur5oyi1zWIYEzXpjiuH8Mf5mQ=
-  - offset: 185
-    length: 4
+  - offset: 162
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 162
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: CuldPLB6nkzjojEM8JmcGQ==
-  - offset: 235
-    length: 4
+  - offset: 214
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -59,9 +59,6 @@ files:
   visible: false
   encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJtt+Bh4vcZIhnqmnSioLEzjj4bSaCcst3cxFSn4rAHSiEelRI2y8aIYBBOpLCJwXw1K1Dw0VcHUf5B0U9R1j8HRXf0ek2rXK2MjVxWOf5gMNkzl7TlmjBrLNJm+g65IbbOpQSP1AHT4j+vC3lRemgngjEGddPdMntpcToSM1dTy8bsY1PCK7/tip9jfa6BCicmxItTe7Yqi2awi/rN9nMgnPwyclZuq97KTO6Zhkf3PWDPdh/XQKa8vBPuUzUD545Q54U5FmbUtESP3Y8QOD49YwjG5JvPSKzsH/Hg4yyBQytYJyWhnxtJyLXV7/avkDV/uG1eDhef/U84Ka0lTcK1QAj3zct+oGhw2fCPxdQxzJAnkmtRmyoDvUs4v3zrl/npwc2x/GHQUwJHwx7XZYNgzyVEwZpGVUdTjKqbTc1ODM0uZfPGeXbaG0dnlkabx1UltaloI+JYJbYyQpuKnZkFOjiiMZR1Ado3+VjCgrT1VlYfHz91jg/hJeCl2deYCz5mmdrybNEU7bHA+aLo0wGYeYbA6/LA47fl/w8BRW+fIHDSB3VDaCz9Hdt29xwrpkr3kGyehodiQHX0FZiLypalKG2S+OLPODHCeKbHv1NLTwZDqlEEzGLGlEmKe+bq3GTT/hGCnf6JNtyyNKyFTopXq0Ox5cIWlOVhL8wNQ6SQWnaaiTNgDgdrmnP7ZgtT0ppv9
   learner_created: false
-feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Data+Classes+/+Sealed+Classes
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Classes+/+Sealed+Classes
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 19 Oct 2022 15:40:33 UTC"
 record: -1

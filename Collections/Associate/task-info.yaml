@@ -3,18 +3,18 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 112
-    length: 33
+  - offset: 116
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 116
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: bHbWHlbXnNTk7UiRFBJcBx27lg4R5GtuqVPHvPvi6gFlwSjEuBCWMVdPLTRL4kUp
-  - offset: 246
-    length: 39
+  - offset: 231
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,14 +23,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: bHbWHlbXnNTk7UiRFBJcByGklhlj8USJqlS5maPcq3q3gRffHRSF/cCpVYyUTH98
-  - offset: 397
-    length: 992
+  - offset: 353
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 353
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: bHbWHlbXnNTk7UiRFBJcB5Vo/MzVnbazCaSar7kh+p5YRpaUPgyuwek3ua02djHY
   encrypted_text: fiv144XRPWcfR2PgTqlaAE5GrYch5n1CxdLh7kJxXmOiHWjEdro+W61eXsZhPYjMh2q6WkVgNi5z2uiTrZY6Nd6tUuelvtZ0kqftR1LjD/MzdUZkzSfW1GCz0xISb0vkOZWswdMFAJXvy62yfsOAIAYdBTNf5bh5fRT3zpbrjHDhEAa8prrhMFzQTwPDSTI32VbhH/248WKa3ZMeZPUQVWeBnQsaK6DEgKv+4lEEvTvwiv1ppYQYtk6NubzTUPQBA3+IIi/gY7hVFS9bWHkMuC4WeUxR7KdSq0qrCyDcJHyDyjnLPn6JfhiMVR+0LVydibSKqtu1n+eyPnkqzqcaSsSbEAHeBX22+iisncJ0r1twNGZH3LobIPvguqcdwFL1fIL5de2TNFpY37yTS3pVLeVPd99dHPEfL42+0aJCgLd2RPyyiCmNGN8iJhDe9SmsANaYvatKlnprzTdPM+rSyrajRrlBUpvdzb4kJIWjYF0=
@@ -49,7 +49,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Associate
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 21 Oct 2022 14:45:43 UTC"
 record: -1

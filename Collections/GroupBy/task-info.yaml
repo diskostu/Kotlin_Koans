@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 133
-    length: 29
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 133
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: /gvM68mFeVPmmi1ZSEU03vxXFsa7xR9TaWM9f+M/YrQ=
   encrypted_text: s4kz7kFNqpnx6ONTLsAUvoGKOEmGrGlL6B2ND64QBpxx/wZdBOkB1uSRu99ishrldmjwajwovhQ/EXwO/Jbvvzkzw3HiMHP5fmszHbkEBxcAZ7zUHOUQJEQxu7fwRZVnjpoxRc3QVoGgx8U7UT7maJ45NKVqovTTTZmoiUWod7F/7QI9+Fs/H9CQaSM1SsLN
@@ -29,7 +29,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+GroupBy
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 21 Oct 2022 14:54:01 UTC"
 record: -1

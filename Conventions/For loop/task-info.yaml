@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 755
+    length: 51
     placeholder_text: "class DateRange(val start: MyDate, val end: MyDate)"
     initial_state:
       length: 51
       offset: 0
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: /UAIlxa19HL+sTa0fyWQ6X1IUhRmjpHqDhCVxKdSdjoBjJ4aQdkhIvd+PSpGNvvleaXgT0WTrAfiREfnZT+qJ2GYMHEkE7nhFWVPXRolQbUm6wkfodn4+ugXnT9is80/vKzmtt8gZAi7Kec6rWSC2DaAWdpB4mAXEaFU3MgXENb7V5ndZRKk4i4WMZAjDIJiQNx2VW0dWQt4oInivo6tIBsFm8yA0irdy7w8GIFUiVaT/AAuKbgVIGmN9ODooXpIBQZDlI+kNIY3iIFxytaxzI8t3a2OT7zWRlVxxDNSKK5FNO9I/q/SOEJ7StBcWM9R7mmUKGBiuJXlmWgA7QCoMcLnnIR/HCraIUXmnksdpRT7FcGK4Cz2ZEaeVtDgDvzlW/rYrqFCo9jNTRQU/Bsc9uV3EtZgokQlPoUdb4HcOvUuEQlPzF9CA4K7r1ZKH1VxOGFnKP2eU1cLpGSFHacwKfBkXb4Phld01SbCwomc7ezFCqHJEFN/tZpIwHbtJCP+heqCZjnMK2K8LT5MA4XOqZAw42lJR/Zu9EoHfMNeKPfHAADdBcKm7kkDcDkoUy+OBhHaoz+GeYR3oaF2BCFSVNMBrUO5B3LdBPPXufs9f4lLz4noOUeq/za8NHZIYXLyYwu420JsLb+m9VsWbA6Vtp106QYiqIqGcQhViXUyHNtMKT79kIDnPHHU5xMkAjor
   encrypted_text: /UAIlxa19HL+sTa0fyWQ6X1IUhRmjpHqDhCVxKdSdjoBjJ4aQdkhIvd+PSpGNvvl7NR7FdSffH3pKdT1iiyeIGvgvjMsV70kBd5gD9qJti/Eww0HrhOoJUxGafhXTzraX3F2GxezK91N+zi/KsxM/KX3h17sgJNtUA6mg6DoB1/P8cFhIcQGMQOySsHwC3v0QXmvIpIwLXcMQ0EZmQbnv5m4YWZdQ3/vm+eKyKk+0wvDTMYWsnemnW13Z6KFxwEFqheoXOWqn4USS7eVU6D1GytUoMRK70hPSG2UfT5KlTc=
@@ -29,7 +29,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Conventions+/+For+Loop
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 20 Oct 2022 06:52:49 UTC"
 record: -1

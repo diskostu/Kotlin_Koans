@@ -3,8 +3,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 145
-    length: 0
+  - offset: 106
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,14 +13,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: Cm/VZjyWEXn+fUJ1SZSuxnNIZ3DaUV+wzVytQTiaSyhNX7rOWqt1ZhaY3QuvSFC3
-  - offset: 297
-    length: 0
+  - offset: 223
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 223
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: v3tjneNUfFawjzlV+QJfqev+l+oLHTTo96oo9QrS7UUo2uh6xfwBtx0f5Z2OeYk9
   encrypted_text: lqjRWwlUxiDiVEni7m4HahkORkhlaskDJVSUkXSzxnSdWj41a6YG1JuuA0Sj4TCB3JewKeyWy8OPLPl02HJ9vrM4wuaInZ8gta+0xkPuYNz01kHwsrJ61CXK/D0FuUFJvhKHQNz14Bsdl9IrBTtc5eg1S6InE6ovf8nGnbf6DGmIXjEM6Xy5GrSNn/cYqlYzLWLCSy5VeZyAYM7F+n5tKPlj0itKYPfiKFV6c6SpkLWgTLZOGHaBYLec+G0vYEI/n+MuQiPqibpyN63plpxoyBfS7Sf+sPU2Yh+nJ46GjMOhXh716jkOgI6hmMaRO34r
@@ -39,7 +39,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Filter+Map
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 20 Oct 2022 07:40:51 UTC"
 record: -1

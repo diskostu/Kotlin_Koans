@@ -3,14 +3,14 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 81
-    length: 0
+  - offset: 54
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 54
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: XYe8cJ3ab1eCHYPtP6Cd4u8EnUevXBExIOD+3zX4iVw=
   encrypted_text: TIXQjMqxbi3YJ3H7rpsoRvtOVyBPxsfBBDS1Es3VCm3vdoFRvtdctQjXZAMvPS4UBlsyt38GU8KXGZjuDNJtLQ==
@@ -29,7 +29,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Introduction
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 20 Oct 2022 07:28:45 UTC"
 record: -1

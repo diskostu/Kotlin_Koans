@@ -3,34 +3,34 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 189
-    length: 130
+  - offset: 193
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 193
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4sh/RVSnS+Z03tEXMpukL0tfzDlj7scpwoKR2yNWeHAzt5A0lBAigD+zz/ezsnJfTj+SdkC6P6hDQxIfYvKIukMWEyF16Oft0W/yhJv5Cfioi8ipD7sNciChl9vKUg4bRoyvpzmCIz14CRtzNccqJ6nsWErWDR2kgXZBfyxLTgDmT
-  - offset: 512
-    length: 114
+  - offset: 393
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 393
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: KCADkUWeK88RYKnwSa+Idplx6+4og4iMiY7lGQfI2K8GOnjhSLFXSxL8ejbMhv4vF1x8Ltj4DjRQL59qRSiHAsxKXNGEA1rPV+eFsNtIKTKzPmkFZpdI0f4Voy3bTbZLUB8pNGiAIF2CtZGbciCFbg==
-  - offset: 629
-    length: 0
+  - offset: 462
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 462
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: ZocLMxe+VftzD4HmgfaVOyNDtml6VM/iJI/u201O/Rg=
   encrypted_text: 4dOehns62+x6sueG7DmwcGfIeWge3s7DMujkxLEtPNZvcr85dBR1OL6sHSiOtzwMFf0AQCGcu28LjGVKRpQZfupPr69KQ4DV81XJbeIuVU4XUY8pntAtq4kzzkxD8UxpXDqXjNtic3UPq1wOwz1Bu2+nYrwBp2sTHp5HZrAyp1/FdPKED/BUGdyFlkSA104e/UtMkDcStJST/JzMFHnZOE+lrtHE5V6aEjYBKnla8E/uEbdtz8M4D/5LCz9HXi9bw2DAl8UhMofc1C4tsPInOd3TkYjQMyhdINkCawslIf8ZCSgdjH3bFbQILbWBcoYwxkWsYDKYF65lRapw1ZIeK7+/vgk0KxGOUpJv5Ody1bT90KKaRurMAcFWsCHcHFMCnRGIaK6n3XC4vvqqP+J8eeNAiPpKtTcstiGZFMxVpYV4fRTPL3Vw2cw8hfrvx7H+5LjKIA7bEJO8F6QR1Tgcscg/3/FawLt5P/B1xWvbzVbQW3uVqipZRLXJpvXYR/15t60P3Dce/tPKEuTELRf95axIyaikyqahBN6eb8zE8chj494VYESL1omlrd8VL8tTP9JEA12Q9UiCEZq45VUs1vrWuY6490tgrVs3dz6YVgv/+FLSCWBLhOYbp+t+rUv7
@@ -49,7 +49,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Compound+Tasks
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 03 Nov 2022 07:07:51 UTC"
 record: -1

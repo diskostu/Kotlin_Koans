@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 162
-    length: 16
+    length: 13
     placeholder_text: .trimIndent()
     initial_state:
       length: 13
       offset: 162
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: dvM3EkWOD+M8hSdDYXjZmbZJ6slxLv+pA5C9zwH+ISo=
   encrypted_text: GwcZZaXsH0clinwW0lpuM4Rbvdd9Q76Afd1NjJq5KKDe17OTYhGjAnUSpaD9rvV+UhfpIoZay/w2yYGRQMNHFLt0+0cAME9R8UUbIFi12rrjfM+XcxA5/gfI18AfbK//O0TcHIcwhcIfWF1p0ez1v0lN73iXg1yHTR5EarhA3uONoP33/aMvSoOe0ld0IOhrZRE0A8VKZ3/C7aKNORg3lw4zJFIFLyKvdSpAjiYC2ztbln2YVEvMYhr1zqX1L0dwlRrrf41KTWZEOmX8ji5/eYsmmz/AeX3ybuU15GdeXEI=
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Triple-Quoted+Strings
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 19 Oct 2022 05:43:11 UTC"
 record: -1

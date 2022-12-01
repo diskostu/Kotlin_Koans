@@ -3,14 +3,14 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 115
-    length: 120
+  - offset: 123
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 123
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 75iYA1PIjUPFmIaAhrGsO9MdjWTxxxM3Zv1WVWu45+taJrHtVVKJ25FN7Z9qdYgn
   encrypted_text: h5UWcS5zmw/uRC0/eRwSeqkAN1wUMaLPBDPsbgYE9n/dDI4RsB37p/cx6WxNycpKCHVdJQlfBs7GA4X6prCuCZrp8MnoG0g1qw7Qe3FaA7PTda5OvG6QqdPc3mBuxQEGm+Di+K57EWFnRuRwUId4B5sXP9naQnhMcquPVUoS5eSYAfTSo07IisDK0UNPsfbbFHjtQpJpp16q9QEyfc9POVqIFod6W6K+TkhDQNEwnd8ai51C+k8/B6LgRiGLnuPALnplfU/f2Zg7qqpLqpV2SA==
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Conventions+/+Invoke
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 20 Oct 2022 07:12:01 UTC"
 record: -1

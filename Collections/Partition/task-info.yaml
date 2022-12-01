@@ -3,14 +3,14 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 0
-    length: 435
+  - offset: 134
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 134
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: v3tjneNUfFawjzlV+QJfqT5pnCPodO32C8y9FFqz0JuDWfghtiFEv+tYevmQ1BsCkvgkUzwXvyoiKt9sgxTAPl886bRgI/Hh4KJkx/QoGD5vvF+XtRauTCXgOz1LUhw6VrNtnHcnw1aGmtQIJynpJON/UUqXmVSRkJY3jXLgkAArXH2kebbGuGZfuy/2Xtfe
   encrypted_text: aNV94prFw/8L+im8TR5ZqrynFTX1qZffC6S4ao5plf14OvHXJJVoNKu20I0ZnZK+nFm7ZFnk9YzrF4l2IAbYHnCTgW7CCWHxwjkZLtftcYruGbfPhiTJ3nMuKZxDtfL9YFUmx8nXIZeMyuymbLh8pCw614lKNWu6AbywnXLCucOPc+yM0lXcplJjB2RMgpRp
@@ -29,7 +29,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Partition
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Tue, 25 Oct 2022 15:08:04 UTC"
 record: -1
